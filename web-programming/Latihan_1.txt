@@ -1,0 +1,19 @@
+Buat HTML halaman profile biodata:
+a. section 1 menu
+b. section 2 judul di kiri dan gambar di kanan
+c. 3 biodata dengan 6 box
+d. section 4 portofolio
+e. menggunakan html table tanpa css
+
+
+Tugas 2
+1. buat website yang sebelumnya kamu buat menjadi seperti ini
+a. menggunsksn html css
+b. rubah layout tabel jadi div
+c. menggunakan grid layout
+d. buat lebih berwarna menggunakan css
+e. berikan gambar
+f. boleh dibantu oleh chatgpt dan sejenisnya
+
+2. buat halaman responsive agar terlihat baik diberbagai perangkat (desktop, tablet, dan mobile) menggunakan media queries.
+3. simpan kedalam repository github
